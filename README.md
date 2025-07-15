@@ -1,12 +1,59 @@
-# React + Vite
+# 🌐 Network Performance Monitor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built as part of a **Web APIs Assignment** for an internship hiring process (Submission Deadline: July 15, 2025).
 
-Currently, two official plugins are available:
+It demonstrates real-time monitoring of network performance, geolocation, and visibility status using **modern Web APIs** with an intuitive dashboard UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Network Monitor** is a web application that provides:
+
+- 📶 Live Network Status using the **Network Information API**
+- 📍 User Location via **Geolocation API**
+- 👁️ Section visibility using **Intersection Observer API**
+- 📈 Real-time performance graph rendered using the **Canvas API**
+- 💡 AI-style optimization suggestions for improving performance
+
+---
+
+## 🧪 Tech Stack
+
+- **React + Vite**
+- **Tailwind CSS**
+- **Canvas API**
+- **Geolocation API**
+- **Network Information API**
+- **Intersection Observer API**
+
+---
+
+## 📷 Screenshots
+
+![Dashboard Screenshot](https://github.com/Rahul-web-hub/Network-Monitor/blob/main/image.png) <!-- Optional, add your own if available -->
+
+---
+
+## 🧠 Features
+
+- 📡 Tracks connection type, downlink, latency, and data saver mode
+- 🌍 Displays latitude, longitude, accuracy and timestamp
+- 📊 Smooth canvas chart updates to visualize performance
+- ✅ AI-style performance tips and optimization feedback
+- 🔁 Responsive, real-time updates without page refresh
+
+---
+
+## 🚀 Running Locally
+
+```bash
+git clone https://github.com/<Rahul-web-hub>/Network Monitor.git
+cd Network Monitor
+npm install
+npm run dev
+```
+## 🙋‍♂️ Author
+Rahul Singh
+Final Year B.Tech Student
+IIIT Bhopal
