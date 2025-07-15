@@ -6,6 +6,15 @@ It demonstrates real-time monitoring of network performance, geolocation, and vi
 
 ---
 
+## 🔗 Live Demo
+
+👉 [View Deployed Project on Vercel](https://network-monitor-five.vercel.app/)
+
+> ⚠️ *Note: Please allow location access and use a network with variable speed for better demo experience.*
+
+---
+
+
 ## 📌 Overview
 
 **Network Monitor** is a web application that provides:
