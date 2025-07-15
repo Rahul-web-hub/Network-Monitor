@@ -31,7 +31,7 @@ It demonstrates real-time monitoring of network performance, geolocation, and vi
 
 ## 📷 Screenshots
 
-![Dashboard Screenshot](./screenshots/dashboard.png) <!-- Optional, add your own if available -->
+![Dashboard Screenshot](https://github.com/Rahul-web-hub/Network-Monitor/blob/main/image.png) <!-- Optional, add your own if available -->
 
 ---
 
