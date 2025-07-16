@@ -1,4 +1,5 @@
 import React, { useState} from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { Activity, Wifi, MapPin, TrendingUp, AlertTriangle, CheckCircle, Info, Zap } from 'lucide-react';
 import Header from './components/Header';
 import Dashboard from './components/Dashboard';
@@ -73,6 +74,7 @@ const App = () => {
           isVisible={visibleElements.has('optimization-card')}
         />
       </Dashboard>
+      <Analytics />
     </div>
   );
 };
